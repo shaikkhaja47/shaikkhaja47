@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Hi there, I'm skhaja7536-sudo! 👋
+# Hi there, I'm shaiik khaja! 👋
 
 Enthusiastic developer exploring Web Development, Python, Django, and React.  
 Interested in Full-Stack Development & modern web technologies.  
