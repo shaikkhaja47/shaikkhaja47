@@ -38,31 +38,31 @@ Git | GitHub
 ### 1. Full Stack Web Applications  
 Full-stack applications built using React and Django.  
 Features: Frontend-backend integration, database connectivity, authentication.  
-🔗 Repository: https://github.com/skhaja7536-sudo  
+🔗 Repository:  
 
 ---
 
 ### 2. React Projects  
 Frontend applications focusing on UI/UX and component-based architecture.  
 Features: Responsive design, reusable components, dynamic rendering.  
-🔗 Repository: https://github.com/skhaja7536-sudo  
+🔗 Repository: https://shaikkhaja47.github.io/TaskPilot/  
 
 ---
 
 ### 3. Django Backend Projects  
 Backend systems built with Django handling APIs and business logic.  
 Features: REST APIs, database operations, authentication.  
-🔗 Repository: https://github.com/skhaja7536-sudo  
+🔗 Repository:   
 
 ---
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=skhaja7536-sudo&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaikkhaja47&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=skhaja7536-sudo&layout=compact&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaikkhaja47&layout=compact&theme=default)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=skhaja7536-sudo)
+![GitHub Streak](https://streak-stats.demolab.com/?user=shaikkhaja47)
 
 ---
 
