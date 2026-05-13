@@ -56,6 +56,10 @@ Features: REST APIs, database operations, authentication.
 
 ---
 
+### MIni projects
+My Portfolio Repository:  https://shaikkhaja47.github.io/My_portfolio/ 
+login page Repository: https://shaikkhaja47.github.io/Login-Page/
+
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaikkhaja47&show_icons=true&theme=default)
