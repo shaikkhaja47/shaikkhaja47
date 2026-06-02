@@ -51,8 +51,10 @@ Features: Responsive design, reusable components, dynamic rendering.
 
 ### 3. Django Backend Projects  
 Backend systems built with Django handling APIs and business logic.  
-Features: REST APIs, database operations, authentication.  
-🔗 Repository:   
+Features: REST APIs, database operations, authentication. 
+Urban Feast 🍽️
+Urban Feast is a full-stack food ordering and delivery web application built with Django. The platform allows customers to browse restaurants, order food online, manage carts, make secure payments, and track their orders through an intuitive user interface.
+🔗 Repository:   https://urbanfeast.onrender.com
 
 ---
 
