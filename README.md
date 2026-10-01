@@ -61,7 +61,7 @@ Urban Feast is a full-stack food ordering and delivery web application built wit
 
 ### MIni projects
 My Portfolio Repository: 
-https://shaikkhaja47.github.io/My_portfolio/ 
+https://shaikkhaja47.github.io/khajaBuilds/ 
 login page Repository:
 https://shaikkhaja47.github.io/Login-Page/
 
